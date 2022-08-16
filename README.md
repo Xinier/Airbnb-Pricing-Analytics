@@ -2,6 +2,8 @@
 This project aims to develop a predictive model for vacation rental prices on Airbnb rentals in Sydney 
 to provide market advice to hosts, real estate investors, and other stakeholders.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtM6DKvUj1qeraFhvuTTe_iVGGWZd4PixrYQ&usqp=CAU" width="400"/>
+
 ## General Information
 Airbnb (www.airbnb.com) is a global platform that runs an online marketplace for short term travel rentals.
 To achieve this project’s goals, the dataset will contain detailed information on a number of existing Airbnb listings in Sydney.
